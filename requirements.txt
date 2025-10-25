@@ -1,0 +1,8 @@
+﻿streamlit==1.12.0
+scikit-learn==1.2.2
+numpy==1.23.5
+pandas==1.5.3
+PyPDF2==3.0.1
+docx2txt==0.8
+joblib==1.2.0
+transliterate==1.10.2
